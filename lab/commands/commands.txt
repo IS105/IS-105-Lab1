@@ -1,0 +1,10 @@
+Mkdir = make directory. Denne funksjonen tillater at man skal opprette en ny katalog.
+Cd = change directory. Gjør det mulig å bytte katalog, for eksempel gå fra en mappe til en annen
+Ls = liste. Kommandoen for å vise en detaljert liste av filer
+Ls –l er en kommando som gir meg oversikt over filer jeg har i en bestemt mappe.
+Ls –la = samme som «ls –l», bare at man med denne kommandoen får se alle filer, inkludert de skjulte filene. «a»  står for «all»
+Pwd = Print working directory. Kommandoen viser mappen som jeg midlertidig arbeider med.
+Pipes and redirection: pipe brukes til å videresende output til et annet program, mens redirect brukes til å videresende output enten til en fil eller stream.
+Grep: søker fil(er) for linjer som matcher et gitt mønster
+Cat: printer ut innhold av en fil
+Less: viser output på skjermen umiddelbart.
